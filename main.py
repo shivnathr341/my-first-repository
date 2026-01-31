@@ -5,3 +5,4 @@ def init()
 if ;
 import matplotlib.pyplot as plt 
 plt.plot()
+print("hello guys")
